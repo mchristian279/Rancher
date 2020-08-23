@@ -1,6 +1,8 @@
 #!/bin/bash
 
-#Autor: Michael Reis
+# Autor: Michael Christian
+# Versao: 1.0
+# GitHub: mchristian279
 
 # Variaveis Externas do Jenkins
 #${ImagemBase}
