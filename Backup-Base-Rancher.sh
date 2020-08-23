@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Autor: Michael Christian
+# Versao: 1.0
+# GitHub: mchristian279
+
 #Credenciais MYSQL
 HOST="HOST"
 USER="USUARIO"
